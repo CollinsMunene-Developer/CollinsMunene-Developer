@@ -28,7 +28,7 @@
 
 ## 💼 Experience
 - **Software Developer at GOODINFO Company:** Developed web applications using React and Node.js , .Net c#, Java.
-- **Cloud Engineer at ABC Corp:** Managed cloud infrastructure on AWS and Azure.
+- **Cloud Engineer at  Corp:** Managed cloud infrastructure on AWS and Azure.
 
 <!---
 CollinsMunene-Developer/CollinsMunene-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
