@@ -12,9 +12,9 @@
 - ⚡ **Fun Fact:** Writes two lines of code and debugs the whole day
 
 ## 🌟 Skills
-- **Programming Languages:** Python, JavaScript, C#
-- **Frameworks:** React, Node.js, Django
-- **Cloud Platforms:** AWS, Azure, Google Cloud
+- **Programming Languages:** Python, JavaScript, C#, Java
+- **Frameworks:** React, Node.js, .NET, Next js, React js,  React Native
+- **Cloud Platforms:** AWS, Azure
 
 ## 📈 GitHub Stats
 ![CollinsMunene-Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinsMunene-Developer&show_icons=true&theme=radical)
